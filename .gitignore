@@ -1,0 +1,16 @@
+# word = " I love programming "
+# print(word[7:15])
+# word = "I love programming "
+# word1 = "python"
+# print(word[:6], word1[:])
+# # word = "program"
+# print(word.find('r'))
+# print(word.rfind('r'))
+# word = "love"
+# word1 = "python"
+# print(word.index("o") + word1.index("o"))
+# st= "Anna loves music! She plays the piano very well! Look!"
+# st= st.replace("!", "!*")
+# print(st)
+# ls= st.split("*")
+# print(ls)
